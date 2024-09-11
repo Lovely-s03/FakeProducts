@@ -1,0 +1,13 @@
+.allCards{
+overflow:scroll;
+display: flex;
+gap: 30;
+flex-direction: column;
+}
+.h1{
+    text-align: center;
+    margin-top: 20px;
+  text-transform: uppercase;
+  color:darkmagenta;
+ 
+}

@@ -1,0 +1,36 @@
+.figContainer{
+     display: flex;
+    
+    align-items: center;
+    justify-content:center;
+   height: 150%;
+width: 50%;
+ border: 2px solid  black; 
+margin-left: 300px;
+overflow:scroll;
+padding: 20px;
+margin-bottom: 30px;
+margin-top: 30px;
+}
+.contentWrapper{
+    height: 150px;
+    width: 200px;
+}
+.contentWrapper>h1{
+    font-size: large;
+    margin-left: 50px;
+  margin-top: 30px;
+}
+h2{
+    font-size: large;
+    margin-left: 50px;
+    color: red;
+    margin-top: 30px;
+ 
+}
+button{
+    height: 20px;
+    width: 100px;
+   background-color:palevioletred;
+   margin-left: 10px;
+}
